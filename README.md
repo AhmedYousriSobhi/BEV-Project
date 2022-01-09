@@ -4,7 +4,7 @@
 
 ## Clone this repository
 ```bash
-!git clone https://github.com/AhmedYousriSobhi/BEV-Project.git --recurse-submodules
+!git clone https://github.com/BEV-PipeLine-GP/BEV-Project.git --recurse-submodules
 %cd BEV-Project
 ```
 
